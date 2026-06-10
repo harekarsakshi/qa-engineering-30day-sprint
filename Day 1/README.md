@@ -1,4 +1,5 @@
-# Day 1: Visual Regression & Layout Diagnostics
+# Day 1
+# Visual Regression & Layout Diagnostics
 
 ## What I did
 
